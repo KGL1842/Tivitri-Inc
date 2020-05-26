@@ -13,6 +13,7 @@
         'delivery',
         'stock',
         'purchase',
+        'product',
     ],
     'website': 'https://www.appjetty.com',
     'support': 'support@appjetty.com',
